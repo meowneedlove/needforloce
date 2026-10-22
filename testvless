@@ -1,5 +1,4 @@
 #profile-title: Vless
 #announce: Нажми на ⚡️ и выбери сервер с мин. значением. Не работает - нажми на 🔄. Сервера с раздач, использовать постоянно не рекомендую.
 #profile-update-interval: 1
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast80.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast80.slopllex.app&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%231
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast80.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast80.slopllex.app&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%232
+vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast80.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast80.slopllex.app&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2
