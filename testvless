@@ -1,4 +1,6 @@
 #profile-title: Vless
 #announce: Нажми на ⚡️ и выбери сервер с мин. значением. Не работает - нажми на 🔄. Сервера с раздач, использовать постоянно не рекомендую.
 #profile-update-interval: 1
-vless://80c2ebdb-755f-4516-a3ea-72fc3f4caed0@151.101.3.6:443?alpn=h3&encryption=none&host=Mastervpsfasjt.global.ssl.fastly.net&mode=auto&path=%2F&security=tls&sni=Apps.apple.com&type=xhttp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=swidenafterlanzerotte.space&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%231
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=swidenafterlanzerotte.space&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&allowInsecure=1&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%232
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=swidenafterlanzerotte.space&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&allowInsecure=1&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%233
