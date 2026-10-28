@@ -1,5 +1,5 @@
 #profile-title: ⚪Обходы БС
-#announce: Нажми на ⚡️ и выбери сервер с мин. значением. Не работает - нажми на 🔄. Сервера подходят для использования в режиме белых списках
+#announce: Нажми на ⚡️ и выбери сервер с мин. значением. Не работает - нажми на 🔄. 🏳️Сервера подходят для использования в режиме белых списков!
 #profile-update-interval: 1
 
 vless://fc66c423-87f8-4153-bf60-601cb6864f81@194.55.239.9:443?encryption=none&type=xhttp&security=tls&sni=land-1.avito.business&fp=firefox&alpn=h2&path=%2Fapi%2Fv2%2Fupload%2F8a3f1c5be24d2854&mode=stream-one&extra=%257B%2522xmux%2522%253A%257B%2522maxConnections%2522%253A%25222%2522%252C%2522hKeepAlivePeriod%2522%253A45%252C%2522hMaxRequestTimes%2522%253A%25221200-1800%2522%252C%2522hMaxReusableSecs%2522%253A%25223600-6000%2522%257D%252C%2522noGRPCHeader%2522%253Afalse%257D#%F0%9F%87%B7%F0%9F%87%BA%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%28%D0%91%D0%B5%D0%B7%D0%BB%D0%B8%D0%BC%D0%B8%D1%82%29
