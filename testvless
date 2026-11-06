@@ -1,6 +1,4 @@
 #profile-title: Vless
 #announce: Нажми на ⚡️ и выбери сервер с мин. значением. Не работает - нажми на 🔄. Сервера с раздач, использовать постоянно не рекомендую.
 #profile-update-interval: 1
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@gamenews.best:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=gamenews.best&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
-vless://f871487d-be50-4a01-ae8d-cfacf192e4a2@latvia.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sync.zovip2.ir&type=ws&allowInsecure=0&sni=sync.zovip2.ir&fp=safari#%F0%9F%8C%90%20Anycast%20%231
-vless://f871487d-be50-4a01-ae8d-cfacf192e4a2@latvia.zovip2.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sync.zovip2.ir&type=ws&allowInsecure=0&sni=sync.zovip2.ir&fp=chrome#%F0%9F%8C%90%20Anycast%20%232
+vless://2e69b088-6ef3-417f-8247-125cf257fafd@151.101.131.6:443?encryption=none&security=tls&sni=apps.apple.com&alpn=h3&fp=chrome&type=xhttp&mode=auto&host=cloudrix.global.ssl.fastly.net&path=%2Ffastly#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
