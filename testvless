@@ -1,5 +1,4 @@
 #profile-title: Vless
 #announce: Нажми на ⚡️ и выбери сервер с мин. значением. Не работает - нажми на 🔄. Сервера с раздач, использовать постоянно не рекомендую.
 #profile-update-interval: 1
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%231
-vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:443?encryption=none&type=xhttp&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&path=%2Fvless-xhttp&mode=auto&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%232
+vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8445?encryption=none&type=grpc&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&serviceName=grpc-reality&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2
