@@ -1,5 +1,4 @@
 #profile-title: Vless
 #announce: Нажми на ⚡️ и выбери сервер с мин. значением. Не работает - нажми на 🔄. Сервера с раздач, использовать постоянно не рекомендую.
 #profile-update-interval: 1
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@199.242.185.178:443?type=tcp&security=reality&sni=go-obsh-drun.keno.su&fp=firefox&pbk=6acrgYsF7FqZ0sNi5fc8wFGmapz_h5N3zA72zpp_EHY&sid=2251f9f7843ac533&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%231
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@199.242.185.178:443?security=reality&type=tcp&sni=go-obsh-drun.keno.su&flow=xtls-rprx-vision&fp=chrome&pbk=6acrgYsF7FqZ0sNi5fc8wFGmapz_h5N3zA72zpp_EHY&sid=2251f9f7843ac533#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%232
+vless://31c910e5-6dfb-4c2e-b98c-3ec093d2468c@slot2.ipoxxo.online:2083?security=reality&sni=github.com&fp=chrome&pbk=lizk11r0PqfhxIgx86cgJd1EAkbyxg8qnIKyKCSFkmc&sid=01a55bdd118a63b9&type=xhttp&path=%2Fdacc7d5d1e6b4ff4&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
